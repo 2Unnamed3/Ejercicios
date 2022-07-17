@@ -1,0 +1,1 @@
+Lo aprendido en este modulo fue el aprender los conceptos basicos acerca de programas que se utilizaran, como su correcta descarga, su correcta instalación y a su vez comandos basicos para el uso de estos
